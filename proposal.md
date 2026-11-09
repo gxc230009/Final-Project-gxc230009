@@ -1,7 +1,7 @@
 # Brainstorming for art
 
 ## Repository
-<Link to your project's public GitHub respository>
+<https://github.com/gxc230009/Final-Project-gxc230009.git>
 
 ## Description
 I will be making a rain game that artist can use when they're wanting ideas on what they should draw.
